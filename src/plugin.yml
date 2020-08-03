@@ -1,0 +1,4 @@
+name: NPC
+version: 1.0
+author: besuper_
+main: com.besuper.npc.be.NPC
